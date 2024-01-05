@@ -6,3 +6,4 @@ https://github.com/DDKALEB/desafio-landing-page-dnc
 
 https://docs.google.com/spreadsheets/d/1e_WSZThemhtCmh2RA2U_n8WBtLL8ZXE6khhXwQ1LgJE/edit#gid=0
 
+https://desafio1-dnc-landing-page-cts.netlify.app/
